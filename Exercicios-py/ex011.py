@@ -5,10 +5,6 @@
 # Crie uma lista com 5 números inteiros.
 # Descubra qual é o MAIOR e qual é o MENOR número dessa lista
 # usando apenas um laço 'for' (sem usar as funções max() e min()).
-#
-# DICA: Crie duas variáveis 'maior' e 'menor' iniciando com o
-# primeiro item da lista: lista[0].
-# Depois compare elemento por elemento dentro do laço.
 # ==========================================
 
 # Escreva seu código aqui:
