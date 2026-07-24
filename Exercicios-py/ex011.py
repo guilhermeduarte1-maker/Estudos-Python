@@ -19,5 +19,5 @@ for i in range(len(num)):
         if num[i] < menor:
             menor = num[i]
 
-print(f"O maior número é: {maior}")
-print(f"O menor número é: {menor}")
+print(f"O maior numero é: {maior}")
+print(f"O menor numero é: {menor}")

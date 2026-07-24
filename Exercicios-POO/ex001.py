@@ -1,5 +1,5 @@
 # ==========================================
-# EXERCÍCIO 12: Introdução à POO (Classe e Objeto)
+# EXERCÍCIO 1: Introdução à POO (Classe e Objeto)
 #
 # O QUE FAZER:
 # 1. Crie uma classe chamada 'Cachorro'.
